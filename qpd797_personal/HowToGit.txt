@@ -1,0 +1,8 @@
+How to use git with a forked repo pointed to upstream, by Elias
+
+To get newest version form Troels:
+git pull upstream main (in git bash, or terminal)
+
+To push to your own forked repo (which is cloned on your computer):
+1. commit (VS code native)
+2. git push origin main (in git bash, or terminal)

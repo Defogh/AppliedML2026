@@ -1,5 +1,0 @@
-Get newest version form Troels:
-git pull upstream main
-
-Push to your own:
-git push origin main
