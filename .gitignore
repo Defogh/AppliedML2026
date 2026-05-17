@@ -3,3 +3,8 @@
 Week0/cifar-10-python.tar.gz
 Week0/cifar-10-batches-py/
 __pycache__/
+
+# Personal work files
+qpd797_personal/
+Week2/*_qpd797.ipynb
+Week3/*_qpd797.ipynb
